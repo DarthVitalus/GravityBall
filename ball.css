@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+#ball {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
+
+#square {
+    position: absolute;
+    border: red solid 2px;
+    z-index: -1;
+}
